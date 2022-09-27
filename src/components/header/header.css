@@ -1,0 +1,9 @@
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: 600;
+  letter-spacing: 6px;
+}
+
+.contact {
+  justify-content: space-between;
+}
